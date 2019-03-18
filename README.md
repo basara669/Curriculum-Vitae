@@ -1,4 +1,4 @@
-# 職務経歴書
+# 職務経歴書 ( [English CV](https://github.com/basara669/Curriculum-Vitae/blob/master/README.en.md) )
 ## 基本情報
 
 |key|value|
