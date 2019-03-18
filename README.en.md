@@ -51,9 +51,10 @@
   - Collaborate the NTT Resonant contents and other contents.
 
 ## Other Experience
-- side business: Developing web site and iOS apps.
-  - Developed web frotend of https://www.b-monster.jp.
-  - Developping iOS Apps.
+- side business: Developing the b-monster web site and iOS apps.
+  - Developed web frotend using vue.js.
+  - Developping  iOS Apps using flutter.
+  - UI Desingend iOS Apps using figma.
 - side business: Writing
   - [HTML5モバイルアプリケーションフレームワーク Sencha Touchパーフェクトガイド](http://amzn.asia/d/5nx9yuC)
   - [一人から始めるユーザーエクスペリエンス ](http://amzn.asia/d/9TTGN2N)
